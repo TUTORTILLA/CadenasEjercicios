@@ -1,0 +1,15 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\bin\Debug\net10.0\Ejercicio2Cadenas.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\bin\Debug\net10.0\Ejercicio2Cadenas.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\bin\Debug\net10.0\Ejercicio2Cadenas.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\bin\Debug\net10.0\Ejercicio2Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\bin\Debug\net10.0\Ejercicio2Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.sourcelink.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\refint\Ejercicio2Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\Ejercicio2Cadenas.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio2Cadenas\Ejercicio2Cadenas\obj\Debug\net10.0\ref\Ejercicio2Cadenas.dll
