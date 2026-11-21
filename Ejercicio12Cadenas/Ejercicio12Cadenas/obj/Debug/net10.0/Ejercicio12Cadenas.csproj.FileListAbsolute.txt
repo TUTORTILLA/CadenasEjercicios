@@ -1,0 +1,15 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\bin\Debug\net10.0\Ejercicio12Cadenas.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\bin\Debug\net10.0\Ejercicio12Cadenas.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\bin\Debug\net10.0\Ejercicio12Cadenas.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\bin\Debug\net10.0\Ejercicio12Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\bin\Debug\net10.0\Ejercicio12Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.sourcelink.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\refint\Ejercicio12Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\Ejercicio12Cadenas.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio12Cadenas\Ejercicio12Cadenas\obj\Debug\net10.0\ref\Ejercicio12Cadenas.dll
