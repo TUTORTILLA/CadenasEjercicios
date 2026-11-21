@@ -1,0 +1,14 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\bin\Debug\net10.0\Ejercicio1Cadenas.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\bin\Debug\net10.0\Ejercicio1Cadenas.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\bin\Debug\net10.0\Ejercicio1Cadenas.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\bin\Debug\net10.0\Ejercicio1Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\bin\Debug\net10.0\Ejercicio1Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\refint\Ejercicio1Cadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\Ejercicio1Cadenas.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\Ejercicio1Cadenas\Ejercicio1Cadenas\obj\Debug\net10.0\ref\Ejercicio1Cadenas.dll
