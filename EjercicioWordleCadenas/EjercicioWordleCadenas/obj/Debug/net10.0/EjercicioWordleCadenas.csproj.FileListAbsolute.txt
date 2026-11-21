@@ -1,0 +1,15 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\bin\Debug\net10.0\EjercicioWordleCadenas.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\bin\Debug\net10.0\EjercicioWordleCadenas.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\bin\Debug\net10.0\EjercicioWordleCadenas.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\bin\Debug\net10.0\EjercicioWordleCadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\bin\Debug\net10.0\EjercicioWordleCadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.sourcelink.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\refint\EjercicioWordleCadenas.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\EjercicioWordleCadenas.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\CadenasEjercicios\EjercicioWordleCadenas\EjercicioWordleCadenas\obj\Debug\net10.0\ref\EjercicioWordleCadenas.dll
